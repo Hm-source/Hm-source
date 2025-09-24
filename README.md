@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Hyomin Kim — Backend Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=👋%20Hi,%20I'm%20Hyomin%20Kim&fontSize=36&fontAlignY=35&desc=Backend%20Engineer&descAlignY=55&font=Raleway" />
+</p>
 
 ### 🌱 개념을 바탕으로 문제 해결에 몰입하는 개발자 김효민입니다.
 
@@ -28,12 +30,14 @@
 **Automation**  
 <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white" />
 
+---
+
 ## 🎯 Interests
 
-- 분산 시스템 성능 최적화 (Redis, Locking 전략)
-- 개발 생산성을 높이는 AI 툴
-- 이벤트 기반 아키텍처 (Kafka 등)
-- 실시간 통신 (WebRTC, STOMP, Kurento)
+- ⚡ 분산 시스템 성능 최적화 (Redis, Locking 전략)
+- 🤖 개발 생산성을 높이는 AI 툴
+- 🔗 이벤트 기반 아키텍처 (Kafka 등)
+- 🎧 실시간 통신 (WebRTC, STOMP, Kurento)
 
 </td>
 <td width="50%" valign="top">
@@ -53,9 +57,9 @@ I share what I learn through my Tistory blog:
 
 ## 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gldf9gkhh56@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-github)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://keepgoingforever.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gldf9gkhh56@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hm-source)  
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://keepgoingforever.tistory.com/)
 
 </td>
 </tr>
