@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=👋%20Hi,%20I'm%20Hyomin%20Kim&fontSize=36&fontAlignY=35&desc=Backend%20Engineer&descAlignY=55&font=Raleway" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=👋%20Hi,%20I'm%20Hyomin%20Kim&fontSize=36&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&font=Raleway" />
 </p>
 
 ### 🌱 개념을 바탕으로 문제 해결에 몰입하는 개발자 김효민입니다.
